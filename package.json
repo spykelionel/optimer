@@ -1,0 +1,23 @@
+{
+  "name": "optimer",
+  "version": "1.0.0",
+  "description": "SEO performance monitor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spykelionel/optimer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spykelionel/optimer/issues"
+  },
+  "homepage": "https://github.com/spykelionel/optimer#readme",
+  "devDependencies": {
+    "lighthouse": "^9.6.7"
+  }
+}
