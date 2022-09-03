@@ -1,0 +1,6 @@
+Next steps
+With the completion of this basic Google Lighthouse tool, theres plenty of ways to develop it further. For example:
+
+Some kind of simple online dashboard that allows non-technical users to run Lighthouse audits and view metrics develop over time. Getting stakeholders behind web performance can be challenging, so something tangible they can interest with themselves could pique their interest.
+Build support for performance budgets, so if a report is generated and performance metrics are slower than they should be, then the tool outputs useful advice on how to improve them (or calls you names).
+Good luck!
